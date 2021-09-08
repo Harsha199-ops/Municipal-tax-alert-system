@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"/>
+    <item android:id="@+id/menu_housetax"
+        android:icon="@drawable/ic_baseline_home_work_24"
+        android:title="Property Tax"/>
+    <item android:id="@+id/menu_agritax"
+        android:icon="@drawable/ic_baseline_agriculture_24"
+        android:title="Agriculture Tax"/>
+    <item android:id="@+id/menu_watertax"
+        android:icon="@drawable/ic_baseline_waves_24"
+        android:title="Water Tax"/>
+
+
+</menu>
