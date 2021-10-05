@@ -1,2 +1,2 @@
 # Municipal tax alert system
- Android studio, Firebase, Java
+ Android studio
